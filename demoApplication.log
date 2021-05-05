@@ -1,0 +1,15 @@
+[main] INFO  Lesson_7.source.server.Server  - Server run
+INFO  2021-03-27 15:18:50 [main] Lesson_7.source.server.Server (Server.java:30) - Server run
+INFO  2021-03-27 15:32:53 [main] Lesson_7.source.server.Server (Server.java:30) - Server run
+INFO  2021-03-27 15:33:10 [main] Lesson_7.source.server.Server (Server.java:46) - Client Socket[addr=/127.0.0.1,port=65430,localport=2021] accept
+INFO  2021-03-27 15:33:56 [pool-1-thread-1] Lesson_7.source.server.auth.ClientHandler (ClientHandler.java:129) - user l2 send l2: hi 
+INFO  2021-03-27 15:35:19 [pool-1-thread-1] Lesson_7.source.server.auth.ClientHandler (ClientHandler.java:107) - User l2 send Tim l2: hello 
+INFO  2021-03-27 15:41:13 [main] Lesson_7.source.server.Server (Server.java:46) - Client Socket[addr=/127.0.0.1,port=65519,localport=2021] accept
+INFO  2021-03-27 15:41:27 [main] Lesson_7.source.server.Server (Server.java:30) - Server run
+INFO  2021-03-27 15:41:41 [main] Lesson_7.source.server.Server (Server.java:46) - Client Socket[addr=/127.0.0.1,port=65534,localport=2021] accept
+INFO  2021-03-27 15:41:58 [pool-1-thread-1] Lesson_7.source.server.auth.ClientHandler (ClientHandler.java:87) - l2 connected. At Socket[addr=/127.0.0.1,port=65534,localport=2021]
+INFO  2021-03-27 15:42:08 [pool-1-thread-1] Lesson_7.source.server.auth.ClientHandler (ClientHandler.java:133) - user l2 send l2: He 
+INFO  2021-03-27 15:42:25 [pool-1-thread-1] Lesson_7.source.server.auth.ClientHandler (ClientHandler.java:118) - User l2 logout.
+ERROR 2021-03-27 15:42:25 [pool-1-thread-1] Lesson_7.source.server.auth.ClientHandler (ClientHandler.java:52) - Error in connection with Socket[addr=/127.0.0.1,port=65534,localport=2021]
+INFO  2021-05-05 18:45:43 [main] Lesson_7.source.server.Server (Server.java:30) - Server run
+INFO  2021-05-05 18:46:04 [main] Lesson_7.source.server.Server (Server.java:46) - Client Socket[addr=/127.0.0.1,port=34702,localport=2021] accept

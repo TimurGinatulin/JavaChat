@@ -1,0 +1,109 @@
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+Unknown user
+CMD: auth OK!
+Server full....
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+CMD: auth OK!
+Server full....
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+Server full....
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+CMD: auth OK!
+Server full....
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+CMD: auth OK!
+l2: Hello 
+Server full....
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+CMD: auth OK!
+Server full....
+l2: Hello 
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+CMD: auth OK!
+Server full....
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+CMD: auth OK!
+Server full....
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+CMD: auth OK!
+Server full....
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+CMD: auth OK!
+Server full....
+Server full....
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+Unknown user
+CMD: auth OK!
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+CMD: auth OK!
+l3 login
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+Unknown user
+CMD: auth OK!
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+CMD: auth OK!
+l3 login
+l2: hello 
+l2: hello 
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+l2 login
+CMD: auth OK!
+l2: -auth l2 p2 
+l2: -auth l2 p2 
+l2: cscd 
+l2: cscd 
+l2: ds 
+l2: ds 
+For login use: -auth "Login" "Password"
+For unicast receive message use: /w "nick" "Message"
+For logout use /exit
+For change nickname use: /c "new_nick"
+CMD: auth OK!
+TIm login
+TIm: Hello World 
+TIm: Hello World 
